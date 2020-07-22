@@ -1,4 +1,4 @@
-# data_spinegeneric_registered
+# data_example_spinegeneric
 Dataset extracted from [SpineGeneric](https://github.com/spine-generic/data-multi-subject). For each subject, all contrasts are registered on the GRE-T1w contrast.
 
 ### About this dataset
